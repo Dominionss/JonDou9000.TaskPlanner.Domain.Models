@@ -69,6 +69,7 @@ namespace JonDou9000.TaskPlanner
             Console.WriteLine($"Is Completed: {task.IsCompleted}");
 
             Console.WriteLine(task.ToString());
+
         }
     }
 }
